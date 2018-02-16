@@ -1,4 +1,3 @@
- <script src='http://code.jquery.com/jquery-1.11.0.min.js' type='text/javascript'/>
 <script type='text/javascript'>
 //<![CDATA[
 $(document).ready(function()
